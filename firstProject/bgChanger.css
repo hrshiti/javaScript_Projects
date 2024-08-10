@@ -1,0 +1,29 @@
+.main{
+    padding-left: 40%;
+
+}
+#red{
+    height: 94px;
+    width: 67px;
+    background-color: red;
+}
+#blue{
+    height: 94px;
+    width: 67px;
+    background-color: blue;
+}
+#yellow{
+    height: 94px;
+    width: 67px;
+    background-color: yellow;
+}
+#black{
+    height: 94px;
+    width: 67px;
+    background-color: black;
+}
+#green{
+    height: 94px;
+    width: 67px;
+    background-color: green;
+}
